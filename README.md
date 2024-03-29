@@ -47,5 +47,27 @@ The script will read the data from `test_data.json`, convert it into Cypher quer
 - **Part 2 - Conversion**: Converts the input JSON data into Cypher queries for creating nodes.
 - **Part 3 - Python Driver**: Executes the Cypher queries using the Neo4j Python Driver.
 
+## Images
+
+1. Neo4j Desktop
+   
+![Neo4j Desktop](https://github.com/karanshahpython555/py-neo4j-uploader/assets/162438169/9de22fa9-c95c-44f9-8462-1aa4e6c739b7)
+
+2. Neo4j Browser
+
+![Neo4j Browser](https://github.com/karanshahpython555/py-neo4j-uploader/assets/162438169/c55b2055-c586-41b6-b7d6-cbc027a241d6)
+
+3. Node Details 1
+
+![Node Details 1](https://github.com/karanshahpython555/py-neo4j-uploader/assets/162438169/ce8303ee-895d-4554-a669-084185f313ef)
+
+4. Node Details 2
+
+![Node Details 2](https://github.com/karanshahpython555/py-neo4j-uploader/assets/162438169/507f8a82-071f-475a-9a6a-fc3f79b86970)
+
+5. Relationship Details
+
+![Relationship Details](https://github.com/karanshahpython555/py-neo4j-uploader/assets/162438169/f0723f2c-af82-45ce-996e-f513054557f3)
+
 
 
