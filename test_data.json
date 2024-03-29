@@ -1,0 +1,28 @@
+{
+    "nodes":{
+      "Person":[
+        {
+          "_uid": "abc123",
+          "first name": "John",
+          "last name": "Wick"
+        },
+        {
+          "_uid": "dcf456",
+          "first name": "Bowery",
+          "last name": "King"
+        }
+      ]
+    },
+    "relationships":{
+        "FRIENDS_WITH":[
+          { 
+            "_uid": "1",
+            "_from__uid": "abc123",
+            "_to__uid": "dcf456",
+            "since": 1997
+          }
+        ]
+    }
+  }
+  
+  
